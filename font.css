@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Ruslan Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local("RuslanDisplay"), url("RuslanDisplay-Regular.woff") format("woff");
+}
